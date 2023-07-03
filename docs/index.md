@@ -1,6 +1,6 @@
 ---
 hero:
-  title: rc-table
+  title: gh-table
   description: React table component with useful functions
 ---
 
