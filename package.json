@@ -21,10 +21,6 @@
   "module": "./es/index",
   "types": "./lib/index.d.ts",
   "homepage": "https://github.com/rkxie/gh-table",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:react-component/table.git"
-  },
   "bugs": {
     "url": "https://github.com/rkxie/gh-table/issues"
   },
